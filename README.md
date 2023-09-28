@@ -1,4 +1,4 @@
-#####Hi you! :zombie_woman:
+##### Hi you! :zombie_woman:
 
 I'm Pinja, a Full Stack Web Development student at Business College Helsinki.
 
