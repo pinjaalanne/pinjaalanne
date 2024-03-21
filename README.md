@@ -4,7 +4,7 @@ I'm Pinja, a Full-Stack Web Development student at Business College Helsinki.
 
 **Welcome to my page!**
 
-[![Pinja's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinjaalanne&show_icons=true&theme=rose_pine)](https://github.com/pinjaalanne/github-readme-stats)
+[![Pinja's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=pinjaalanne&show_icons=true&theme=rose_pine)](https://github.com/pinjaalanne/github-readme-stats)
 
 Check my LinkedIn as well for my previous experience:
 [LinkedIn](https://fi.linkedin.com/in/pinja-alanne-3920a1161)
