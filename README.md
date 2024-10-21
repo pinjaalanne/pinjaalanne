@@ -1,6 +1,7 @@
 ### Hi you! :zombie_woman:
 
-I'm Pinja, a Full-Stack Web Development student at Business College Helsinki.
+I'm a front-end developer with experience using React, TypeScript, JavaScript, and HTML/CSS to build clean, user-friendly interfaces. 
+My background in Sales and Customer Support helps me understand user needs, and working in the textile/design industry has sharpened my attention to detail. I'm also familiar with Git, responsive design, and API integration. I'm looking for my first junior role where I can learn, contribute, and grow with a supportive team.
 
 **Welcome to my page!**
 
