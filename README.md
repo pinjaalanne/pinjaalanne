@@ -1,7 +1,7 @@
 ### Hi you! :zombie_woman:
 
 I'm a front-end developer with experience using React, TypeScript, JavaScript, and HTML/CSS to build clean, user-friendly interfaces. 
-My background in Sales and Customer Support helps me understand user needs, and working in the textile/design industry has sharpened my attention to detail.
+My background in Sales and Customer Support helps me understand user needs, and working in the textile/design industry has improved my attention to detail.
 
 **Welcome to my page!**
 
